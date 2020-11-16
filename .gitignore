@@ -1,0 +1,11 @@
+build/
+node_modules/
+.idea
+*.log
+*.iml
+tmp/
+dist/
+storybook-static/
+/coverage
+test-report.html
+.env

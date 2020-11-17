@@ -19,9 +19,9 @@ jobs:
       - name: Install npm dependency
         run: npm install
         working-directory: './'
-      # - name: Install jest
-        # run: npm i -g jest
-        # working-directory: './'
+      - name: Install jest
+        run: npm i -g jest
+        working-directory: './'
       - name: Run tests
         run: npm test
         working-directory: './'

@@ -1,7 +1,7 @@
 import React from 'react'
 
 const fun = () => {
-    return(<p>asfh</p>)
+    return(<p>asfhs</p>)
 }
 
 export default fun;
